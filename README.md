@@ -9,7 +9,7 @@
 * [AI bias: A Disfavored Bilingualism in NLP Sentiment Analysis Techniques](https://yfeng.cargo.site)
 
 #### MScR Coursework Highlight 
-* [Interactive Media Design]()
+* [Interactive Media Design](https://github.com/Yifan-FENG/interactivedmt-qmul)
 
 #### BA + MScR Research Highlight: 
 * [Social Science + Computing](https://github.com/Yifan-FENG/uxresearch-qmul-uva)
