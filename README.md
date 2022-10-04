@@ -1,5 +1,9 @@
-# An overview for selected Yifan's projects
+## Hello! 
+#### 
+My name is Yifan Butsik (he/they). I am a designer and researcher for creative/social computing. Rooted in my social sciences and computing background, I am interested in digital technology development with cultural and gender awareness. My research reflects feminism and queer identity dynamics in human-computer interaction and addresses social and racial justice in the course of user-experience engineering. 
 
+
+## Project & Research Overview 
 #### MA/MSc Advanced Project
 
 
@@ -16,6 +20,8 @@
 
 #### BA + MScR Research Highlight: 
 * [Social Science + Computing](https://github.com/Yifan-FENG/uxresearch-qmul-uva)
+
+## Education 
 
 
 
