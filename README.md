@@ -1,4 +1,4 @@
-# An overview for selected Yifan projects
+# An overview for selected Yifan's projects
 
 #### MA/MSc Coursework Highlight 
 
