@@ -1,5 +1,8 @@
 # An overview for selected Yifan's projects
 
+#### MA/MSc Advanced Project
+
+
 #### MA/MSc Coursework Highlight 
 
 * [Machine Creativity: A FlagGAN model](https://github.com/Yifan-FENG/ai4meida-ual)
