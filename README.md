@@ -1,4 +1,4 @@
-# MA/MSc Computing and Creative Industry Modular
+# An overview for selected Yifan projects
 
 #### MA/MSc Coursework Highlight 
 
