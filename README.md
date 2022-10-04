@@ -3,5 +3,5 @@
 
 * [Machine Learning: Course Recommendation System for Class Registration](https://github.com/Yifan-FENG/personalization-ual)
 * [Social Justice in Computational Practices](https://github.com/Yifan-FENG/feministcoding-ual)
-* [Computational Creativity and AI bias: Language Model Generation](https://github.com/Yifan-FENG/machineintelligence-ual)
+* [Digital Storytelling: Explore AI Ethics by Aritifical Intelligence](https://github.com/Yifan-FENG/machineintelligence-ual)
 * [Computational Creativity and AI bias: A Disfavored Bilingualism in NLP Sentiment Analysis Techniques](https://yfeng.cargo.site)
