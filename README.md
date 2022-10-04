@@ -8,6 +8,9 @@
 * [Digital Storytelling: Explore AI Ethics by Aritifical Intelligence](https://github.com/Yifan-FENG/machineintelligence-ual)
 * [AI bias: A Disfavored Bilingualism in NLP Sentiment Analysis Techniques](https://yfeng.cargo.site)
 
+#### MScR Coursework Highlight 
+* [Interactive Media Design]()
+
 #### BA + MScR Research Highlight: 
 * [Social Science + Computing](https://github.com/Yifan-FENG/uxresearch-qmul-uva)
 
