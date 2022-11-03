@@ -23,6 +23,7 @@ My name is Yifan Butsik (he/they). I am a designer and researcher for creative/s
 
 ## Education 
 
+*2023-2024 MSC Human-Computer Interaction Desiign, City Univ. of London | United Kingdom* 
 * 2022-2023 MRes Creative Computing, UAL Creative Computing Institute | United Kingdom
 * 2021-2022 MA/MSc Computing and Creative Industry (Modular), UAL Creative Computing Institute | United Kingdom
 * 2020 Fall MScR Media and Arts Technology, Queen Mary Univ. of London | United Kingdom
