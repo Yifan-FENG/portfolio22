@@ -23,7 +23,7 @@ My name is Yifan Butsik (he/they). I am a designer and researcher for creative/s
 
 ## Education 
 
-* 2022-2021 MRes Creative Computing
+* 2022-2023 MRes Creative Computing
 * 2021-2022 MA/MSc Computing and Creative Industry (Modular)
 * 2020 Fall MScR Media and Arts Technology
 * 2017-2020 BA Media and Information 
