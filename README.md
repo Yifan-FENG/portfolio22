@@ -30,3 +30,9 @@ My name is Yifan Butsik (he/they). I am a designer and researcher for creative/s
 
 --
 * *2020 Fall Visiting MScR Media and Arts Technology, Queen Mary Univ. of London | United Kingdom* 
+
+--
+* *2022 Summer School, Research Design and Experiment, University of Amsterdam | Netherlands* 
+* *2022 Summer School, Systematic Literature Review, Radbound University | Netherlands* 
+* *2022 Summer School, Introduction to HCI, Radbound University | Netherlands* 
+* *2019 Summer School, Statistics in R, UCL | United Kingdom* 
