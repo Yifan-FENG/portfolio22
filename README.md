@@ -29,5 +29,4 @@ My name is Yifan Butsik (he/they). I am a designer and researcher for creative/s
 * 2015-2016 Foundation Cert in Arts and Social Sciences, Lancaster University | United Kingdom
 
 --
-* *2023-2024 MSc Human-Computer Interaction Design, City Univ. of London | United Kingdom* 
-* *2020 Fall Visiting MScR Media and Arts Technology, Queen Mary Univ. of London | United Kingdom*
+* *2020 Fall Visiting MScR Media and Arts Technology, Queen Mary Univ. of London | United Kingdom* 
